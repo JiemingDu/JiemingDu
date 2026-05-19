@@ -1,7 +1,5 @@
 ## Hi there 👋
-I'm Jim, a Software Engineering Co-op student at McGill University actively developing skills in full-stack web development and data analysis through various projects. I am building proficiency in languages like Python, Java, C, and SQL, utilizing modern frameworks and tools. I possess native proficiency in English, French, and Mandarin. Currently seeking a Summer 2026 internship to apply my skills within an innovative environment.
-
-
+I'm Jim, a Software Engineering Co-op student at McGill University actively developing skills in full-stack web development and data analysis through various projects. I am building proficiency in languages like Python, Java, C, and SQL, utilizing modern frameworks and tools. I possess native proficiency in English, French, and Mandarin. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jimdu1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dujieming1@gmail.com) 
 
